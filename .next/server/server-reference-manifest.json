@@ -1,42 +1,46 @@
 {
   "node": {
-    "bd39c382ab07d23b21cad9a512b6d97c79996422": {
+    "3a18ca4be5d9658c8efcf0891f291996271829d9": {
       "workers": {
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CL204%5C%5CDesktop%5C%5Cnextjs%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CL204%5C%5CDesktop%5C%5Cnextjs%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!",
-        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CL204%5C%5CDesktop%5C%5Cnextjs%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/.pnpm/next@14.2.4_@babel+core@7.24.7_react-dom@18.2.0_react@18.2.0__react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CL204%5C%5CDesktop%5C%5Cnextjs%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/dashboard/invoices/page": "rsc",
-        "app/dashboard/invoices/create/page": "action-browser",
-        "app/dashboard/invoices/[id]/edit/page": "action-browser"
+        "app/login/page": "action-browser"
+      }
+    },
+    "bd39c382ab07d23b21cad9a512b6d97c79996422": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/.pnpm/next@14.2.4_@babel+core@7.24.7_react-dom@18.2.0_react@18.2.0__react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CL204%5C%5CDesktop%5C%5Cnextjs%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
       }
     },
     "ca63c6f5e100a9aa21057e63ec57232873c59399": {
       "workers": {
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CL204%5C%5CDesktop%5C%5Cnextjs%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CL204%5C%5CDesktop%5C%5Cnextjs%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!",
-        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CL204%5C%5CDesktop%5C%5Cnextjs%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/.pnpm/next@14.2.4_@babel+core@7.24.7_react-dom@18.2.0_react@18.2.0__react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CL204%5C%5CDesktop%5C%5Cnextjs%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/dashboard/invoices/page": "rsc",
-        "app/dashboard/invoices/create/page": "action-browser",
-        "app/dashboard/invoices/[id]/edit/page": "action-browser"
+        "app/login/page": "action-browser"
       }
     },
     "ed60634edc30346946ca09e600de718ffd68aee6": {
       "workers": {
-        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CL204%5C%5CDesktop%5C%5Cnextjs%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=!",
-        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CL204%5C%5CDesktop%5C%5Cnextjs%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!",
-        "app/dashboard/invoices/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CL204%5C%5CDesktop%5C%5Cnextjs%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!"
+        "app/login/page": "(action-browser)/./node_modules/.pnpm/next@14.2.4_@babel+core@7.24.7_react-dom@18.2.0_react@18.2.0__react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CL204%5C%5CDesktop%5C%5Cnextjs%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22deleteInvoice%22%2C%22updateInvoice%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/dashboard/invoices/page": "rsc",
-        "app/dashboard/invoices/create/page": "action-browser",
-        "app/dashboard/invoices/[id]/edit/page": "action-browser"
+        "app/login/page": "action-browser"
+      }
+    },
+    "fabbfa93e6ff6ea93ce74d0fda51df10c8ede0db": {
+      "workers": {
+        "app/dashboard/(overview)/page": "(rsc)/./node_modules/.pnpm/next@14.2.4_@babel+core@7.24.7_react-dom@18.2.0_react@18.2.0__react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CL204%5C%5CDesktop%5C%5Cnextjs%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%5C%5Cnextjs-dashboard%5C%5Capp%5C%5Cui%5C%5Cdashboard%5C%5Csidenav.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/(overview)/page": "rsc"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "BARQYxpb0fhnYLJubt3Oc3ojogM+UogIKEYjvlebR1c="
+  "encryptionKey": "qc7GUJP30CpbT01TMqLT9Q7qGpC1z9gSSABb7ZzWlyA="
 }
